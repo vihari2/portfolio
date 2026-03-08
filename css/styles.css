@@ -284,7 +284,7 @@ sup {
 }
 
 .masthead {
-    background-image: url("assets/img/imagem3.jpg");
+    background-image: url("../assets/img/imagem3.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -8026,7 +8026,7 @@ fieldset:disabled .btn {
 }
 
 .background-about {
-    background-image: url("assets/img/imagem2.jpg");
+    background-image: url("./assets/img/imagem2.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
